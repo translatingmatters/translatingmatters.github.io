@@ -87,6 +87,15 @@ p{
   color: #3BA394;
 }
 
+#languages a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+#languages a:hover{
+  color: #3BA394;
+}
+
 #specialities{
   background-color: #EBEBEB;
   color: #717b7f;
@@ -95,6 +104,7 @@ p{
   display: flex;
   display: -webkit-flex;
   flex-flow: column nowrap;
+  -webkit-flex-flow: column nowrap;
   justify-content: space-around;
   padding: 0 10vw;
 }
@@ -111,6 +121,7 @@ p{
   display: flex;
   display: -webkit-flex;
   flex-flow: column nowrap;
+  -webkit-flex-flow: column nowrap;
   justify-content: center;
 }
 
@@ -127,6 +138,7 @@ p{
   display: flex;
   display: -webkit-flex;
   flex-flow: row nowrap;
+  -webkit-flex-flow: row nowrap;
   justify-content: center;
   color: white;
 }
