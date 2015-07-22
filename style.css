@@ -20,6 +20,7 @@ legend {
 
 .page{
   height: 100vh;
+  padding: 5vh;
 }
 
 
@@ -127,7 +128,7 @@ p{
 
 #contact h2{
   color: #FFFFFF;
-  padding: 2vh;
+  padding: 5vh;
 }
 
 #contact p {
