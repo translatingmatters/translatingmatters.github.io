@@ -1,2 +1,2 @@
 # translatingmatters.github.io
-[translatingmatters](www.translatingmatters.co.uk) website
+[translatingmatters](http://www.translatingmatters.co.uk) website
