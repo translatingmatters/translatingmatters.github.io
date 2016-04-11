@@ -31,16 +31,22 @@
       "src": "fontawesome"
     },
     {
-      "uid": "2dd7e3046b63beb19616dce63c5782a6",
-      "css": "blogger-1",
-      "code": 59397,
-      "src": "zocial"
-    },
-    {
       "uid": "22cfc7af2c4f158b37317c65c92b48c2",
       "css": "location",
       "code": 59396,
       "src": "elusive"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2dd7e3046b63beb19616dce63c5782a6",
+      "css": "blogger-1",
+      "code": 59397,
+      "src": "zocial"
     }
   ]
 }
