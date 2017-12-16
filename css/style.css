@@ -1,3 +1,11 @@
 .hover-ocean-green:hover {
   color: #4AA792;
 }
+
+.ocean-green {
+  color: #4AA792;
+}
+
+.b--ocean-green {
+  border-color: #4AA792;
+}
