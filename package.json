@@ -1,0 +1,26 @@
+{
+  "name": "translatingmatters.github.io",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/translatingmatters/translatingmatters.github.io.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "SimonLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/translatingmatters/translatingmatters.github.io/issues"
+  },
+  "homepage": "https://github.com/translatingmatters/translatingmatters.github.io#readme",
+  "dependencies": {
+    "node-static": "^0.7.10"
+  }
+}
